@@ -103,6 +103,9 @@ These have the best blend of search visibility, artifact credibility, and low se
 | GitLab mirror | https://gitlab.com/mukunda.vjcs6/agent-eval-platform-starters | GitLab mirror of the starter artifacts |
 | Gitea mirror | https://gitea.com/MukundaKatta/agent-eval-platform-starters | Gitea mirror of the platform-starter artifacts |
 | StackBlitz workspace URL | https://stackblitz.com/github/MukundaKatta/agent-eval-platform-starters | Browser-editable workspace URL for the starter artifacts |
+| Gitpod workspace URL | https://gitpod.io/#https://github.com/MukundaKatta/agent-eval-platform-starters | Gitpod launch URL for the starter artifacts |
+| Read the Docs | https://agent-eval-field-notes.readthedocs.io/en/latest/ | Hosted documentation for Agent Evaluation Field Notes |
+| Val Town | https://val.town/x/mukundakatta/agent-scorecard-val | Public TypeScript scorecard function for lightweight agent evaluation |
 
 ## Reusable Short Description
 

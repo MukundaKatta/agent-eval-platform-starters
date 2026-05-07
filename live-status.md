@@ -14,6 +14,9 @@ Date: 2026-05-07
 | GitLab mirror | https://gitlab.com/mukunda.vjcs6/agent-eval-platform-starters | HTTP 200 |
 | Gitea mirror | https://gitea.com/MukundaKatta/agent-eval-platform-starters | HTTP 200 |
 | StackBlitz workspace URL | https://stackblitz.com/github/MukundaKatta/agent-eval-platform-starters | HTTP 200 |
+| Gitpod workspace URL | https://gitpod.io/#https://github.com/MukundaKatta/agent-eval-platform-starters | HTTP 200 |
+| Read the Docs | https://agent-eval-field-notes.readthedocs.io/en/latest/ | HTTP 200 |
+| Val Town | https://val.town/x/mukundakatta/agent-scorecard-val | HTTP 200 |
 
 ## Blocked By Sign-In Or Token
 
