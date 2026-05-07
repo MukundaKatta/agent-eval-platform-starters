@@ -101,6 +101,8 @@ These have the best blend of search visibility, artifact credibility, and low se
 | Firebase Hosting alternate | https://agent-eval-field-notes.firebaseapp.com | Firebase alternate domain |
 | GitHub import anchor | https://github.com/MukundaKatta/agent-eval-platform-starters | Public starter artifacts for Batch C platforms |
 | GitLab mirror | https://gitlab.com/mukunda.vjcs6/agent-eval-platform-starters | GitLab mirror of the starter artifacts |
+| Gitea mirror | https://gitea.com/MukundaKatta/agent-eval-platform-starters | Gitea mirror of the platform-starter artifacts |
+| StackBlitz workspace URL | https://stackblitz.com/github/MukundaKatta/agent-eval-platform-starters | Browser-editable workspace URL for the starter artifacts |
 
 ## Reusable Short Description
 

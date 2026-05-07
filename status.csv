@@ -1,6 +1,6 @@
 surface,category,artifact,status,public_url,next_action
 SourceHut,Code forge,Mirror agent-eval-public-notes,Ready,,Sign in and create public repo
-Gitea.com,Code forge,Mirror agent-eval-public-notes,Ready,,Sign in and create public repo
+Gitea.com,Code forge,Mirror agent-eval-platform-starters,Live,https://gitea.com/MukundaKatta/agent-eval-platform-starters,Published and verified HTTP 200
 Launchpad,Code forge,Project profile,Ready,,Sign in and create project
 GNU Savannah,Code forge,Scorecard notes project,Ready,,Submit project for review
 Heptapod,Code forge,Repo mirror,Ready,,Sign in and create project
@@ -11,7 +11,7 @@ repo.or.cz,Code forge,Git mirror,Ready,,Create public repo
 Fossil SCM public repo,Code forge,Fossil mirror,Ready,,Create fossil repo
 Quay.io,Container registry,OCI image,Needs image build,,Sign in and push image
 Gitpod,Dev environment,Workspace template,Ready,,Create workspace from repo
-StackBlitz,Dev environment,Editable workspace,Ready,,Import repo
+StackBlitz,Dev environment,Editable workspace,Live,https://stackblitz.com/github/MukundaKatta/agent-eval-platform-starters,GitHub import workspace verified HTTP 200
 CodeSandbox,Dev environment,Public sandbox,Ready,,Import repo
 Glitch,Demo host,Remixable app,Ready,,Create project
 Val Town,Serverless snippets,Scorecard function,Ready,,Create public val

@@ -12,6 +12,8 @@ Date: 2026-05-07
 | Firebase Hosting alternate | https://agent-eval-field-notes.firebaseapp.com | HTTP 200 |
 | GitHub repo | https://github.com/MukundaKatta/agent-eval-platform-starters | HTTP 200 |
 | GitLab mirror | https://gitlab.com/mukunda.vjcs6/agent-eval-platform-starters | HTTP 200 |
+| Gitea mirror | https://gitea.com/MukundaKatta/agent-eval-platform-starters | HTTP 200 |
+| StackBlitz workspace URL | https://stackblitz.com/github/MukundaKatta/agent-eval-platform-starters | HTTP 200 |
 
 ## Blocked By Sign-In Or Token
 
