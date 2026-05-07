@@ -16,7 +16,7 @@ CodeSandbox,Dev environment,Public sandbox,Ready,,Import repo
 Glitch,Demo host,Remixable app,Ready,,Create project
 Val Town,Serverless snippets,Scorecard function,Live,https://val.town/x/mukundakatta/agent-scorecard-val,Public scorecard function verified HTTP 200
 Pipedream,Workflow automation,Workflow template,Ready,,Create workflow
-Google Colab,Notebook,Scorecard notebook,Ready,,Create notebook
+Google Colab,Notebook,Scorecard notebook,Live,https://colab.research.google.com/github/MukundaKatta/agent-eval-platform-starters/blob/main/starter-artifacts/colab/agent_eval_field_notes_scorecard.ipynb,Colab launch URL verified HTTP 200
 Deepnote,Notebook,Notebook mirror,Ready,,Create project
 Hex,Notebook/app,Analytics app,Ready,,Create project
 DataCamp Workspace,Notebook,Workspace,Ready,,Create workspace

@@ -106,6 +106,7 @@ These have the best blend of search visibility, artifact credibility, and low se
 | Gitpod workspace URL | https://gitpod.io/#https://github.com/MukundaKatta/agent-eval-platform-starters | Gitpod launch URL for the starter artifacts |
 | Read the Docs | https://agent-eval-field-notes.readthedocs.io/en/latest/ | Hosted documentation for Agent Evaluation Field Notes |
 | Val Town | https://val.town/x/mukundakatta/agent-scorecard-val | Public TypeScript scorecard function for lightweight agent evaluation |
+| Google Colab | https://colab.research.google.com/github/MukundaKatta/agent-eval-platform-starters/blob/main/starter-artifacts/colab/agent_eval_field_notes_scorecard.ipynb | Public Colab launch URL for the scorecard notebook |
 
 ## Reusable Short Description
 
