@@ -1,0 +1,51 @@
+surface,category,artifact,status,public_url,next_action
+SourceHut,Code forge,Mirror agent-eval-public-notes,Ready,,Sign in and create public repo
+Gitea.com,Code forge,Mirror agent-eval-public-notes,Ready,,Sign in and create public repo
+Launchpad,Code forge,Project profile,Ready,,Sign in and create project
+GNU Savannah,Code forge,Scorecard notes project,Ready,,Submit project for review
+Heptapod,Code forge,Repo mirror,Ready,,Sign in and create project
+Pagure.io,Code forge,Repo mirror,Ready,,Sign in and create project
+NotABug,Code forge,Repo mirror,Ready,,Sign in and create repo
+Radicle,Decentralized code,Decentralized mirror,Ready,,Install/setup identity and publish
+repo.or.cz,Code forge,Git mirror,Ready,,Create public repo
+Fossil SCM public repo,Code forge,Fossil mirror,Ready,,Create fossil repo
+Quay.io,Container registry,OCI image,Needs image build,,Sign in and push image
+Gitpod,Dev environment,Workspace template,Ready,,Create workspace from repo
+StackBlitz,Dev environment,Editable workspace,Ready,,Import repo
+CodeSandbox,Dev environment,Public sandbox,Ready,,Import repo
+Glitch,Demo host,Remixable app,Ready,,Create project
+Val Town,Serverless snippets,Scorecard function,Ready,,Create public val
+Pipedream,Workflow automation,Workflow template,Ready,,Create workflow
+Google Colab,Notebook,Scorecard notebook,Ready,,Create notebook
+Deepnote,Notebook,Notebook mirror,Ready,,Create project
+Hex,Notebook/app,Analytics app,Ready,,Create project
+DataCamp Workspace,Notebook,Workspace,Ready,,Create workspace
+Lightning AI Studio,AI workspace,Eval workflow studio,Ready,,Create studio
+Paperspace Gradient,AI workspace,Notebook project,Ready,,Create notebook
+Saturn Cloud,Data workspace,Scenario notebook,Ready,,Create project
+Apify,Automation platform,Trace scoring actor,Ready,,Create actor
+Koyeb,Cloud host,FastAPI endpoint,Ready,,Deploy service
+Render,Cloud host,Scorecard API,Ready,,Deploy web service
+Railway,Cloud host,Trajectory replay demo,Ready,,Deploy service
+Fly.io,Cloud host,Global JSON API,Ready,,Install CLI and deploy
+Supabase,Backend platform,Schema and seed data,Ready,,Create project
+Firebase Hosting,Static host,Static mirror,Ready,,Deploy site
+Artifact Hub,Cloud native registry,Helm chart entry,Needs chart,,Create chart metadata
+Terraform Registry,IaC registry,Deploy module,Needs module,,Create module repo
+Pulumi Registry,IaC registry,Deploy package,Needs package,,Create package
+crates.io,Package registry,Rust crate,Needs token,,Scaffold and publish crate
+RubyGems,Package registry,Ruby gem,Needs token,,Scaffold and publish gem
+Maven Central,Package registry,Java package,Needs signing,,Scaffold package
+NuGet,Package registry,.NET helper,Needs token,,Scaffold and publish package
+Packagist,Package registry,PHP package,Ready,,Create package repo and submit
+Anaconda.org,Package registry,Conda package,Needs token,,Build package
+LuaRocks,Package registry,Lua helper,Needs account,,Scaffold rockspec
+Julia General Registry,Package registry,Julia package,Needs review,,Scaffold package
+R-universe,Package registry,R package docs,Ready,,Create package repo
+Mendeley Data,Data repository,Dataset mirror,Ready,,Upload dataset
+Harvard Dataverse,Data repository,Dataset mirror,Ready,,Upload dataset
+Dryad,Data repository,Dataset submission,Scope check,,Check scope and submit
+HAL,Research archive,Technical report,Scope check,,Check scope and submit
+PubPub,Writing/research,Article page,Ready,,Create article
+Curvenote,Writing/research,Executable note,Ready,,Create article
+Read the Docs,Docs host,Hosted docs,Ready,,Import repo
