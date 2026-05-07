@@ -92,6 +92,16 @@ These have the best blend of search visibility, artifact credibility, and low se
 11. Mendeley Data
 12. Read the Docs
 
+## Live Surfaces From This Work Session
+
+| Surface | URL | Notes |
+| --- | --- | --- |
+| Cloudflare Pages | https://agent-eval-field-notes.pages.dev | Static Agent Evaluation Field Notes surface |
+| Firebase Hosting | https://agent-eval-field-notes.web.app | Static mirror of the field-notes surface |
+| Firebase Hosting alternate | https://agent-eval-field-notes.firebaseapp.com | Firebase alternate domain |
+| GitHub import anchor | https://github.com/MukundaKatta/agent-eval-platform-starters | Public starter artifacts for Batch C platforms |
+| GitLab mirror | https://gitlab.com/mukunda.vjcs6/agent-eval-platform-starters | GitLab mirror of the starter artifacts |
+
 ## Reusable Short Description
 
 Agent Evaluation Field Notes is a compact public collection of scorecard templates, trajectory replay checklists, and RAG guardrail smoke tests for evaluating tool-using AI agents. It is designed for builders who need practical, repeatable evaluation workflows rather than a large benchmark.
@@ -105,4 +115,3 @@ The notes connect to public research artifacts, demos, and datasets around light
 ## Tags
 
 `ai-agents`, `agent-evaluation`, `llm-evals`, `tool-use`, `scorecards`, `rag`, `prompt-injection`, `trajectory-replay`, `developer-tools`, `research-artifacts`
-

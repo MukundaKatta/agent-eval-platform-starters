@@ -29,7 +29,7 @@ Render,Cloud host,Scorecard API,Ready,,Deploy web service
 Railway,Cloud host,Trajectory replay demo,Ready,,Deploy service
 Fly.io,Cloud host,Global JSON API,Ready,,Install CLI and deploy
 Supabase,Backend platform,Schema and seed data,Ready,,Create project
-Firebase Hosting,Static host,Static mirror,Ready,,Deploy site
+Firebase Hosting,Static host,Static mirror,Live,https://agent-eval-field-notes.web.app,Published and verified
 Artifact Hub,Cloud native registry,Helm chart entry,Needs chart,,Create chart metadata
 Terraform Registry,IaC registry,Deploy module,Needs module,,Create module repo
 Pulumi Registry,IaC registry,Deploy package,Needs package,,Create package

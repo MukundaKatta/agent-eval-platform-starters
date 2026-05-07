@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "starter-artifacts/static-site",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
