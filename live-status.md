@@ -18,6 +18,7 @@ Date: 2026-05-07
 | Read the Docs | https://agent-eval-field-notes.readthedocs.io/en/latest/ | HTTP 200 |
 | Val Town | https://val.town/x/mukundakatta/agent-scorecard-val | HTTP 200 |
 | Google Colab | https://colab.research.google.com/github/MukundaKatta/agent-eval-platform-starters/blob/main/starter-artifacts/colab/agent_eval_field_notes_scorecard.ipynb | HTTP 200 |
+| CodeSandbox preview | https://mh72cq.csb.app/ | HTTP 200 |
 
 ## Blocked By Sign-In Or Token
 
