@@ -12,7 +12,7 @@ Fossil SCM public repo,Code forge,Fossil mirror,Ready,,Create fossil repo
 Quay.io,Container registry,OCI image,Needs image build,,Sign in and push image
 Gitpod,Dev environment,Workspace template,Live,https://gitpod.io/#https://github.com/MukundaKatta/agent-eval-platform-starters,Workspace launch URL verified HTTP 200
 StackBlitz,Dev environment,Editable workspace,Live,https://stackblitz.com/github/MukundaKatta/agent-eval-platform-starters,GitHub import workspace verified HTTP 200
-CodeSandbox,Dev environment,Public sandbox,Ready,,Import repo
+CodeSandbox,Dev environment,Public sandbox,Blocked,,GitHub OAuth reached sudo-mode confirmation; complete authenticator or GitHub Mobile check, then import repo
 Glitch,Demo host,Remixable app,Ready,,Create project
 Val Town,Serverless snippets,Scorecard function,Live,https://val.town/x/mukundakatta/agent-scorecard-val,Public scorecard function verified HTTP 200
 Pipedream,Workflow automation,Workflow template,Ready,,Create workflow
